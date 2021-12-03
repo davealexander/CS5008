@@ -1,0 +1,21 @@
+Script started on Mon 09 Aug 2021 01:59:07 PM EDT
+[?1034hbash-4.2$ ./thread3
+Iteration: 0
+Counter starts at 0
+Counter ends at -60000
+Iteration: 1
+Counter starts at 0
+Counter ends at -60006
+Iteration: 2
+Counter starts at 0
+Counter ends at -60005
+Iteration: 3
+Counter starts at 0
+Counter ends at -60002
+Iteration: 4
+Counter starts at 0
+Counter ends at -59998
+bash-4.2$ exit
+exit
+
+Script done on Mon 09 Aug 2021 01:59:29 PM EDT

@@ -1,0 +1,19 @@
+Script started on Sat 05 Jun 2021 12:19:37 PM EDT
+[?1034hbash-4.2$ ./sc[K[Kstack
+Error: There is no data in stack
+pop value: 3
+pop value: 5
+pop value: 4
+pop value: 6
+pop value: 2
+bash-4.2$ ./deux
+Error: There is no data in stack
+Pop Value: 3
+Pop Value: 5
+Pop Value: 4
+Pop Value: 6
+Pop Value: 2
+bash-4.2$ exit
+exit
+
+Script done on Sat 05 Jun 2021 12:19:54 PM EDT

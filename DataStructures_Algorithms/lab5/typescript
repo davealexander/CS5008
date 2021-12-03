@@ -1,0 +1,32 @@
+Script started on Thu 24 Jun 2021 11:31:51 PM EDT
+[?1034hbash-4.2$ ./queue
+Input a string between 0 and 255 characters: 
+ 
+True! Is palindrome 
+Input a string between 0 and 255 characters: 
+a
+True! Is palindrome 
+Input a string between 0 and 255 characters: 
+aa
+True! Is palindrome 
+Input a string between 0 and 255 characters: 
+aaa
+True! Is palindrome 
+Input a string between 0 and 255 characters: 
+aba
+True! Is palindrome 
+Input a string between 0 and 255 characters: 
+abba
+True! Is palindrome 
+Input a string between 0 and 255 characters: 
+Taco cat
+False! Is not a palindrome 
+Input a string between 0 and 255 characters: 
+tru   code    fire
+False! Is not a palindrome 
+Input a string between 0 and 255 characters: 
+^C
+bash-4.2$ exit
+exit
+
+Script done on Thu 24 Jun 2021 11:32:44 PM EDT

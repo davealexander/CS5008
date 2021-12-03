@@ -1,0 +1,37 @@
+Script started on Tue 01 Jun 2021 09:39:32 PM EDT
+[?1034hbash-4.2$ ./string
+Input a string (Quit for done):Happy Birthday
+Uppercase Input: HAPPY BIRTHDAY
+ H -- 0x48
+ A -- 0x41
+ P -- 0x50
+ Y -- 0x59
+   -- 0x20
+ B -- 0x42
+ I -- 0x49
+ R -- 0x52
+ T -- 0x54
+ D -- 0x44
+\n -- 0xa
+Input a string (Quit for done):This is a         Tom   I can't wait for friday!
+Uppercase Input: I CAN'T WAIT FOR FRIDAY!
+ I -- 0x49
+   -- 0x20
+ C -- 0x43
+ A -- 0x41
+ N -- 0x4e
+ ' -- 0x27
+ T -- 0x54
+ W -- 0x57
+ F -- 0x46
+ O -- 0x4f
+ R -- 0x52
+ D -- 0x44
+ Y -- 0x59
+ ! -- 0x21
+\n -- 0xa
+Input a string (Quit for done):quit
+bash-4.2$ exit
+exit
+
+Script done on Tue 01 Jun 2021 09:40:11 PM EDT

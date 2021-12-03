@@ -1,0 +1,26 @@
+Script started on Tue 25 May 2021 09:32:22 PM EDT
+[?1034hbash-4.2$ ./cl[Kalc
+Two Values: 10.000000,and  5.000000
+Sum: 15.000000
+Difference: 5.000000
+Product: 50.000000
+Quotient: 2.000000
+Two Values: 40.000000,and  8.000000
+Sum: 48.000000
+Difference: 32.000000
+Product: 320.000000
+Quotient: 5.000000
+Two Values: 1.000000,and  4.000000
+Sum: 5.000000
+Difference: -3.000000
+Product: 4.000000
+Quotient: 0.250000
+Two Values: 15.000000,and  30.000000
+Sum: 45.000000
+Difference: -15.000000
+Product: 450.000000
+Quotient: 0.500000
+bash-4.2$ exit
+exit
+
+Script done on Tue 25 May 2021 09:32:31 PM EDT

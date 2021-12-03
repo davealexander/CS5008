@@ -1,0 +1,96 @@
+Script started on Tue 13 Jul 2021 09:23:08 PM EDT
+[?1034hbash-4.2$ ./fib
+fib of 0 = 0
+time taken (sec) = 0.000000
+
+fib of 5 = 5
+time taken (sec) = 0.000000
+
+fib of 10 = 55
+time taken (sec) = 0.000000
+
+fib of 15 = 610
+time taken (sec) = 0.000000
+
+fib of 20 = 6765
+time taken (sec) = 0.000000
+
+fib of 25 = 75025
+time taken (sec) = 0.000000
+
+fib of 30 = 832040
+time taken (sec) = 0.000000
+
+fib of 35 = 9227465
+time taken (sec) = 0.000000
+
+fib of 40 = 102334155
+time taken (sec) = 1.000000
+
+fib of 45 = 1134903170
+time taken (sec) = 10.000000
+
+fib of 50 = 12586269025
+time taken (sec) = 106.000000
+
+
+
+
+mfib of 0 = 0
+time taken (sec) = 0.000000
+
+mfib of 5 = 5
+time taken (sec) = 0.000000
+
+mfib of 10 = 55
+time taken (sec) = 0.000000
+
+mfib of 15 = 610
+time taken (sec) = 0.000000
+
+mfib of 20 = 6765
+time taken (sec) = 0.000000
+
+mfib of 25 = 75025
+time taken (sec) = 0.000000
+
+mfib of 30 = 832040
+time taken (sec) = 0.000000
+
+mfib of 35 = 9227465
+time taken (sec) = 0.000000
+
+mfib of 40 = 102334155
+time taken (sec) = 0.000000
+
+mfib of 45 = 1134903170
+time taken (sec) = 0.000000
+
+mfib of 50 = 12586269025
+time taken (sec) = 0.000000
+
+mfib of 55 = 139583862445
+time taken (sec) = 0.000000
+
+mfib of 60 = 1548008755920
+time taken (sec) = 0.000000
+
+mfib of 65 = 17167680177565
+time taken (sec) = 0.000000
+
+mfib of 70 = 190392490709135
+time taken (sec) = 0.000000
+
+mfib of 75 = 2111485077978050
+time taken (sec) = 0.000000
+
+mfib of 80 = 23416728348467685
+time taken (sec) = 0.000000
+
+mfib of 85 = 259695496911122585
+time taken (sec) = 0.000000
+
+bash-4.2$ :[Kexit
+exit
+
+Script done on Tue 13 Jul 2021 09:25:28 PM EDT

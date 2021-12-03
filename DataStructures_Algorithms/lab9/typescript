@@ -1,0 +1,24 @@
+Script started on Tue 10 Aug 2021 07:15:44 PM EDT
+[?1034hbash-4.2$ ./[K[K./trie
+Please enter a word:frank
+word typed: frank
+Found word in Trie: frank
+Please enter a word:dave
+word typed: dave
+Found word in Trie: dave
+Please enter a word:javascript
+word typed: javascript
+Found word in Trie: javascript
+Please enter a word:computerz
+word typed: computerz
+computerz cannot be found in Trie 
+Please enter a word:qweuthf
+word typed: qweuthf
+qweuthf cannot be found in Trie 
+bash-4.2$ ./trie
+Please enter a word:quit
+word typed: quit
+bash-4.2$ exit
+exit
+
+Script done on Tue 10 Aug 2021 07:16:16 PM EDT

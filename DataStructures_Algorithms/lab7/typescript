@@ -1,0 +1,24 @@
+Script started on Sat 17 Jul 2021 06:20:58 PM EDT
+[?1034hbash-4.2$ ./mem1
+16
+bash-4.2$ ./str1
+hakuna matata!
+hakuna matata!
+bash-4.2$ ./sort
+Enter an integer n: 20  10
+The unsorted array is: 26762 18142 210 14499 9550 8701 11341 12515 463 21291 
+The sorted array is: 210 463 8701 9550 11341 12515 14499 18142 21291 26762 
+bash-4.2$ ./resize
+Enter original array size:20
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+Enter new array size: 30
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+bash-4.2$ ./resize
+Enter original array size:20
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+Enter new array size: 10
+100 100 100 100 100 100 100 100 100 100 
+bash-4.2$ exit
+exit
+
+Script done on Sat 17 Jul 2021 06:21:38 PM EDT

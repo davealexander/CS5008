@@ -1,0 +1,26 @@
+Script started on Wed 11 Aug 2021 12:19:47 AM EDT
+[?1034hbash-4.2$ ./sort[K[K[K[K[K[K./sort
+Sort 25000 Numbers
+Insertion Sort Time Spent: 0.440000
+Shell Sort (interval 1) Time Spent: 0.020000
+Shell Sort (interval 2) Time Spent: 0.010000
+Shell Sort (interval 3) Time Spent: 0.020000
+Shell Sort (interval 4) Time Spent: 0.770000
+bash-4.2$ ./sort1
+Sort 100000 Numbers
+Insertion Sort Time Spent: 7.050000
+Shell Sort (interval 1) Time Spent: 0.170000
+Shell Sort (interval 2) Time Spent: 0.030000
+Shell Sort (interval 3) Time Spent: 0.100000
+Shell Sort (interval 4) Time Spent: 11.850000
+bash-4.2$ ./sort2
+Sort 500000 Numbers
+Insertion Sort Time Spent: 172.490000
+Shell Sort (interval 1) Time Spent: 2.190000
+Shell Sort (interval 2) Time Spent: 0.250000
+Shell Sort (interval 3) Time Spent: 1.000000
+Shell Sort (interval 4) Time Spent: 288.470000
+bash-4.2$ exit
+exit
+
+Script done on Wed 11 Aug 2021 12:29:18 AM EDT

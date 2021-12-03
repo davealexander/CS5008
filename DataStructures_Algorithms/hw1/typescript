@@ -1,0 +1,13 @@
+Script started on Tue 18 May 2021 08:47:30 PM EDT
+[?1034hbash-4.2$ cd ls[K[Khw1
+bash-4.2$ gcc heelo_world -o hi[1P[C[1@l
+gcc: error: hello_world: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+bash-4.2$ gcc hello_world -o hi[C[C[1@.[1@c
+bash-4.2$ ./hi
+Hello World.  This is Dave Centeno and this is my first C program
+bash-4.2$ exit
+exit
+
+Script done on Tue 18 May 2021 08:49:07 PM EDT
